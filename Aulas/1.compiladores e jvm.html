@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Compiladores e JVM</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <nav>
+            <h2 class="cabecalho-menu-aulas" onclick="clickMenu()">Aulas</h2>
+            <menu id="itens">
+                <ul>
+                    <li id="pag-atual"><a href="1.compiladores e jvm.html" target="_self">Compiladores e JVM</a></li>
+                    <li><a href="2.criar_arquivos.html" target="_self">Criando e salvando arquivos</a></li>
+                    <li><a href="3.desfazer_alteracoes.html" target="_self">Desfazendo alterações</a></li>
+                    <li><a href="4.branches.html" target="_self">Branches</a></li>
+                    <li><a href="5.colaboracao.html" target="_self">Colaboração</a></li>
+                </ul>
+            </menu>
+        </nav>
+
+        <main>
+            <h1>Compiladores e JVM</h1>
+
+            <section>
+                <h2>Como funciona no geral</h2>
+                <p>Para fazer um código funcionar na linguagem C, por exemplo, devemos criar um <mark>código fonte</mark>, mas a máquina não entende esse código da maneira que é escrita por nós, então ele deve ser "traduzido" por um <mark>compilador</mark>.</p>
+
+                <img class="imagem100" src="media/img01 compilador c.png" alt="esquema-compilador">
+
+                <p>Porém, um compilador compila apenas para um tipo de máquina, por exemplo, um <mark>compilador windows</mark> traduz código-fonte para uma linguagem que apenas o windows entende, desse jeito, se pegarmos um código compilado por um <mark>compilador windows</mark>, não poderiamos executa-lo numa máquina <mark>linux</mark> por exemplo, mesmo o coódigo já estando compilado.</p>
+            </section>
+
+            <section>
+                <h2>Como funciona no Java</h2>
+                <p>Já para fazer um código Java funcionar, além de passar por um <mark>compilador</mark> Java (Chamado de <mark>JavaC</mark>), o código deve passar por uma <mark>JVM</mark> (Java Virtual Machine) antes de ser executado, pois mesmo o código-fonte Java já estando compilado, ele não é compreendido pela máquina, precisando passar pela JVM para ser executado corretamente.</p>
+
+                <img class="imagem100" src="media/img02 compilador java.png" alt="esquema-compilador-java">
+
+                <p>Cada sistema deve ter sua <mark>JVM</mark>, que já vem configurada automáticamente, apenas deve ser instalada. É ai que entra a vantagem do Java, o código compilado (Já passado pelo <mark>JavaC</mark>) pode ser executado em qualquer sistema que já tenha sua <mark>JVM</mark> instalada.</p>
+
+                <img class="imagem50" src="media/img03 jvms.png" alt="esquema-jvms">
+
+                <p>Esse conceito se chama <mark>WORA</mark>, write once run anywhere, escreva uma vez, execute em qualquer lugar.</p>
+            </section>
+
+            <section>
+                <h2>O que precisa ser instalado?</h2>
+                <p>A empresa dona do Java divide as ferramentas em ferramentas para desenvolvedor, e ferramentas para usuário, para que o usuário não tenha que baixar o kit de desenvolvimento desnecessáriamente, visto que ele não vai desenvolver, apenas utilizar aplicações Java.</p>
+                
+                <li>Para usuários, temos o <mark>JRE</mark> (Ambiente de execução Java), que já vem com a <mark>JVM</mark>.</li>
+                <li>Para desenvolvedores, temos o <mark>JDK</mark> (Kit de desenvolvimento Java), que já vem com o <mark>JRE</mark> anexado, logo, também já vem com a <mark>JVM</mark>.</li>
+
+                <img class="imagem100" src="media/img04 jdk-jre.png" alt="resumo-jdk-jre">
+            </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </main>
+
+        <script>
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = 'block'
+            }
+            }
+        </script>
+    </body>
+</html>
