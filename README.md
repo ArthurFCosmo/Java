@@ -10,13 +10,13 @@ Agradecimentos especiais ao professor [Gustavo Guanabara](https://www.linkedin.c
 
 Em andamento...
 
-## Sobre mim 🙋‍♂️
+## 🙋‍♂️ Sobre mim 
 
 Olá, tenho 23 anos e sou desenvolvedor full-stack. Comecei minha vida profissional aos 18 anos como designer, agora após me formar em Análise e desenvolvimento de sistemas, estou em transição de carreira. Estou disponível para serviço, sou um profissional responsável e honesto, que trabalha bem em equipe e busca sempre evoluir.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFCosmo&layout=compact)
 
-## Conecte-se comigo 🤝
+## 🤝 Conecte-se comigo 
 
 | Contatos |  |
 | --- | --- |
