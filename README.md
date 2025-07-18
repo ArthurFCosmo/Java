@@ -6,6 +6,10 @@ Esse repositório tem o objetivo de manter todos os meus aprendizados documentad
 
 Agradecimentos especiais ao professor [Gustavo Guanabara](https://www.linkedin.com/in/guanabara/).
 
+## 📝 Meu caderno 
+
+- [Clique aqui para acessar minhas anotações.](https://arthurfcosmo.github.io/Java/Aulas/1.compiladores_e_jvm.html).
+
 ## 🛠 Meus projetos
 
 Em andamento...
