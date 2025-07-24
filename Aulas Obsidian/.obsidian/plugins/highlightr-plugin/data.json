@@ -1,0 +1,12 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Y": "#7A6300",
+    "G": "#727272"
+  },
+  "highlighterOrder": [
+    "Y",
+    "G"
+  ]
+}

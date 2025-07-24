@@ -1,4 +1,4 @@
-## Tags
+### Tags
 
 Assunto: #Teoria-Nerd
 ## Como funciona no geral
