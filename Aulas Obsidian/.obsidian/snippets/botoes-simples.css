@@ -1,0 +1,16 @@
+/* Estilizar todos os links como botões */
+.markdown-preview-view a.internal-link,
+.markdown-preview-view a.external-link {
+  background-color: #674080; /* roxo */
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.2s;
+}
+
+.markdown-preview-view a:hover {
+  background-color: #4a148c;
+}
