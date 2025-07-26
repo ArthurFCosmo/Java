@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "361b1c6ad96fc392",
+        "id": "c141bea60c5885ee",
         "type": "tabs",
         "children": [
           {
-            "id": "cf50af734352298e",
+            "id": "c5721b163ff95d7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java 5 - Swing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Java 5 - Swing"
             }
           }
         ]
@@ -163,13 +167,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cf50af734352298e",
+  "active": "c5721b163ff95d7a",
   "lastOpenFiles": [
-    "Java 1 - Introdução.md",
-    "Java 2 - Compiladores e JVM.md",
+    "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
+    "Java 5.1.1 - Maven.md",
+    "Java 5 - Swing.md",
+    "Java 4 - CamelCase.md",
     "Java 3 - Criando o Olá mundo.md",
+    "Java 2 - Compiladores, JVM, IDE.md",
+    "Java 1 - Introdução.md",
+    "media/img08_pacote-incorreto.png",
+    "Pasted image 20250725223108.png",
+    "media/img07 jframe3.png",
+    "media/img06 jframe2.png",
+    "media/img05 jframe.png",
     "Teste.md",
-    "Java 3.1 - CamelCase.md",
     "Java 3 - Criando o olá mundo",
     "Sem título.canvas",
     "2025-07-23.md",

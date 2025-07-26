@@ -1,6 +1,6 @@
-### Tags
-
 Assunto: #Teoria-Nerd
+
+---
 ## Como funciona no geral
 Para fazer um código funcionar na linguagem C, por exemplo, devemos criar um ==código fonte==, mas a máquina não entende esse código da maneira que é escrita por nós, então ele deve ser "traduzido" por um ==compilador==.
 
@@ -25,4 +25,14 @@ A empresa dona do Java divide as ferramentas em ferramentas para desenvolvedor, 
 - Para usuários, temos o ==JRE== (Ambiente de execução Java), que já vem com a ==JVM==.
 - Para desenvolvedores, temos o ==JDK== (Kit de desenvolvimento Java), que já vem com o ==JRE== anexado, logo, também já vem com a ==JVM==.
 
-![[img04 jdk-jre.png]][[Java 3 - Criando o Olá mundo]]
+![[img04 jdk-jre.png]]
+# IDE
+
+IDE's são ambientes personalizados para construir códigos. Elas tem vários plug-ins, que auxiliam você a ser um programador mais eficiente, seja completando suas palavras enquanto escreve, ou até criando código para você, além de ajudar a navegar entre arquivos, etc.
+
+Para o Java, você pode usar o VSCode, mas ele é limitado na criação de exibição gráfica (Front-end), então você pode optar por usar o NetBeans + JavaFX, que te auxilia nesse aspecto. Porém o padrão para as empresas atualmente é usar o InteliJ.
+
+Na IDE é importante que você configure corretamente qual versão da JVM você tem, e para qual versão você compilará o código, isso é relativamente simples de se fazer.
+
+
+[[Java 3 - Criando o Olá mundo]]
