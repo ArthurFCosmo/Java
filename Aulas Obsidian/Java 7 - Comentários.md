@@ -11,4 +11,4 @@ Para comentar seus códigos, basta usar:
 - `/* para comentar várias linhas */` 
 - `/** para criar documentação do seu sistema */`
 
-[[Java 8 - Tipos primitivos]]
+[[Java 8 - Tipos primitivos (Algoritmo)]]

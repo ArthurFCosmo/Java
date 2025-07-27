@@ -10,4 +10,10 @@ No Portugol (Básico de algoritmo) temos os seguintes tipos de dados:
 - Caractere - Letras e números
 - Lógico - True / False
 
+No Java, cada tipo desse é uma família de tipos, com algumas variantes.
+
+Vamos usar um exemplo para mostrar como seriam as declarações de variáveis desses 4 tipos em Java.
+
+[[Java 9 - Declarando variáveis]]
+
 
