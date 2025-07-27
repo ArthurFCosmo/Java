@@ -14,6 +14,7 @@ No Java, cada tipo desse é uma família de tipos, com algumas variantes.
 
 Vamos usar um exemplo para mostrar como seriam as declarações de variáveis desses 4 tipos em Java.
 
+---
 [[Java 9 - Declarando variáveis]]
 
 

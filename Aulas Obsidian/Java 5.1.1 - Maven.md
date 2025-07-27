@@ -1,5 +1,7 @@
 
 Tags: #Ferramentas #Xml
+
+---
 ## 📦 O que é Maven?
 
 **Maven** é uma ferramenta que te ajuda a organizar, compilar e executar projetos Java de forma padronizada.
@@ -27,4 +29,5 @@ Ele é um arquivo de texto em formato XML, ele fica dentro de uma pasta chamada 
 
 O nome `pom` vem de **P**roject **O**bject **M**odel.
 
+---
 [[Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame]]

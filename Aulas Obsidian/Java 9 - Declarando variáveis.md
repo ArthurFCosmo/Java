@@ -84,4 +84,6 @@ boolean aprovado = (boolean) false; // Typecast
 Boolean aprovado = new Boolean(false); // Wrapper class
 ```
 
-Continuar da aula 6 minuto 12:00
+---
+
+[[Java 10 - Tipos primitivos em Java]]

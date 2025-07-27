@@ -1,7 +1,6 @@
 Tag: #Pacote #Ferramentas #Criando_e_configurando 
 
 ---
-
 ## 📝Criando o projeto
 
 O pacote swing auxilia o programador a desenvolver interfaces gráficas.
@@ -132,4 +131,5 @@ Esse método é o `ActionPerformed(java.awt.event.ActionEvent evt)`, que diz o q
 
 Dentro terá o resultado `Texto1.setText("Olá Mundo!")`, que é trocar o texto por "Olá Mundo".
 
+---
 [[Java 6 - JavaFX]]

@@ -34,5 +34,5 @@ Para o Java, você pode usar o VSCode, mas ele é limitado na criação de exibi
 
 Na IDE é importante que você configure corretamente qual versão da JVM você tem, e para qual versão você compilará o código, isso é relativamente simples de se fazer.
 
-
+---
 [[Java 3 - Criando o Olá mundo]]

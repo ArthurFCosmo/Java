@@ -1,7 +1,6 @@
 Tags: #Criando_e_configurando #Corrigindo_erro 
 
 ---
-
 ## ⚠ Qual o problema?
 
 Pode ocorrer de quando você terminar de compilar a aplicação, ao visitar a pasta `dist` do projeto e executar o `.jar`, ele nao abrir.
@@ -26,4 +25,5 @@ Em `--module-path ""` devemos inserir dentro das aspas o diretório da nossa pas
 
 Após executar o comando o app deve funcionar normalmente.
 
+---
 [[Java 6 - JavaFX]]

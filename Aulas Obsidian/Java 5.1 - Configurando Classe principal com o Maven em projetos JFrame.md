@@ -1,5 +1,6 @@
 Tag: #Criando_e_configurando #Xml
 
+---
 ## Possível erro
 
 Na primeira vez que criei um <mark style="background: #727272;">JFrame</mark>, meu <mark style="background: #727272;">Maven</mark> estava rodando uma classe incorreta, que nem existia.
@@ -80,4 +81,5 @@ Precisei adicionar algumas linhas para que o Maven pudesse reconhecer a classe <
 
 Após isso, bastou clicar com o botão direito no <mark style="background: #7A6300;">projeto</mark> e clicar em <mark style="background: #727272;">clean and bluid</mark>. Assim ele recompila tudo da maneira correta com as novas configurações.
 
+---
 [[Java 5 - Swing]]
