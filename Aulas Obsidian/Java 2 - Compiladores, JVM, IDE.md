@@ -1,4 +1,4 @@
-Assunto: #Teoria-Nerd
+Assunto: #Teoria
 
 ---
 ## Como funciona no geral

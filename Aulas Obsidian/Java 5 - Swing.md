@@ -1,8 +1,8 @@
-Tag: #pacote
+Tag: #pacote #ferramentas #Criando_e_configurando 
 
 ---
 
-## 📝Criando projeto
+## 📝Criando o projeto
 
 O pacote swing auxilia o programador a desenvolver interfaces gráficas.
 
@@ -82,4 +82,54 @@ private void Botao1ActionPerformed(java.awt.event.ActionEvent evt){
 
 Adicionando a linha 2 `Texto1.setText("Olá Mundo!")`, teremos a ação de mudar o texto do nosso Label <mark style="background: #7A6300;">Texto1</mark> para "Olá mundo" quando o <mark style="background: #7A6300;">botão</mark> for clicado.
 
-Continuar de: # Aula 5 – Introdução ao Swing e JavaFX 18:22
+## 🔨 Código base no Swing (Já vem pronto devido ao nosso trabalho no JFrame)
+
+Esse código resume-se em:
+
+```java
+public class OlaMundoJava extends javax.swing.JDialog {
+	Texto1 = new javax.swing.JLabel1();
+	Botao1 = new javax.swing.JButton();
+} 
+
+private void Botao1ActionPerformed(java.awt.event.ActionEvent evt) {               
+    Texto1.setText("Olá Mundo!");
+}                                      
+```
+
+### A linha 1:
+
+```java
+public class OlaMundoJava extends javax.swing.JDialog{}
+```
+
+Tem a classe Pública <mark style="background: #7A6300;">OlaMundoJava</mark>, e tem o método <mark style="background: #7A6300;">extends</mark> com o complemento `javax.swing.JDialog`. O <mark style="background: #7A6300;">extends</mark> indica <mark style="background: #727272;">herança</mark>, ou seja, tudo de configuração que `javax.swing.JDialog` tiver (JFrame), <mark style="background: #7A6300;">OlaMundoJava</mark> também terá.
+
+### As linhas 2 e 3:
+
+```java
+Texto1 = new javax.swing.JLabel1();
+Botao1 = new javax.swing.JButton();
+```
+
+Essas linhas estão definindo nossos elementos.
+
+A linha 2 indica que teremos um novo <mark style="background: #7A6300;">JLabel</mark> do `javax.swing` chamado Texto1.
+
+A linha 3 faz o mesmo, mas para o botão.
+
+### As linhas 6 e 7:
+
+```java
+private void Botao1ActionPerformed(java.awt.event.ActionEvent evt) {               
+    Texto1.setText("Olá Mundo!");
+}              
+```
+
+Essas linhas estão definindo um novo método.
+
+Esse método é o `ActionPerformed(java.awt.event.ActionEvent evt)`, que diz o que ocorrerá quando a <mark style="background: #7A6300;">ação</mark> (Clicar no elemento) acontecer.
+
+Dentro terá o resultado `Texto1.setText("Olá Mundo!")`, que é trocar o texto por "Olá Mundo".
+
+[[Java 6 - JavaFX]]

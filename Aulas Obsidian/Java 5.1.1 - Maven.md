@@ -1,5 +1,5 @@
 
-Tags: 
+Tags: #ferramentas #xml
 ## 📦 O que é Maven?
 
 **Maven** é uma ferramenta que te ajuda a organizar, compilar e executar projetos Java de forma padronizada.
