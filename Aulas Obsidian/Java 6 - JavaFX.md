@@ -1,4 +1,4 @@
-Tags: #ferramentas #Criando_e_configurando 
+Tags: #Ferramentas #Criando_e_configurando 
 
 ---
 ## 📝 Criando o projeto
@@ -200,3 +200,5 @@ Na linha 8, colocamos o <mark style="background: #7A6300;">evento</mark>, e dent
 Após isso é só executar o programa, e ele funcionará perfeitamente igual ao anterior.
 
 [[Java 6.1 - Como executar o .jar criado fora do NetBeans]]
+
+[[Java 7 - Comentários]]
