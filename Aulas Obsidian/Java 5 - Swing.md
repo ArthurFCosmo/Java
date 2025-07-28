@@ -18,10 +18,10 @@ Primeiro, no NetBeans, vamos fazer o seguinte.
 - Criar o projeto >
 - Deletei a Classe que já vem criada dentro do pacote
 - Dentro do pacote (selecionado), clicar no botão no canto superior esquerdo "new file"
-- Swing GUI Forms > Forms JFrame
+- Swing GUI Forms > JFrame form
 - Next >
 - Dar nome à classe (CamelCase começando maiúsculo)
-- Dar nome ao pacote (Minúsculas)
+- Escolher o pacote em que ela vai ser colocada
 - Finish >
 
 [[Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame]]

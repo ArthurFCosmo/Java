@@ -63,6 +63,11 @@ Resultando, como esperado, em:
 
 `O salario sera de: 2300,50`
 
+Para outros tipos, você deve formatar de maneiras diferentes.
+
+- int -> %d
+- string -> %s
+- float -> %f
 #### Quebra de linha
 
 Como não estamos usando o `println`, pode ser que queiramos pular para a próxima linha após o `print`. Para fazer isso, basta colocar dentro das aspas do print, no final, um `\n`, ficando assim no código:

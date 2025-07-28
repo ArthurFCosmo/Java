@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e3540250451b874e",
+        "id": "89e2ebd346b5d80a",
         "type": "tabs",
         "children": [
           {
-            "id": "0786fcf565758125",
+            "id": "5cbe6ac1e0e3453c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Java 14 - Criando uma aplicação com entrada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java 14 - Criando uma aplicação com entrada"
             }
           }
         ]
@@ -163,23 +167,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0786fcf565758125",
+  "active": "5cbe6ac1e0e3453c",
   "lastOpenFiles": [
-    "Java 12 - Entrada de dados.md",
-    "Java 11 - Saída de dados em Java.md",
-    "Java 10 - Tipos primitivos em Java.md",
-    "Java 9 - Declarando variáveis.md",
-    "Java 8 - Tipos primitivos (Algoritmo).md",
+    "Java 15 - Criando uma aplicação com imagens.md",
+    "media/img14_swing3.png",
+    "Java 14 - Criando uma aplicação com entrada.md",
+    "Java 4 - CamelCase.md",
+    "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
+    "media/img13_swing2.png",
+    "media/img12_swing1.png",
+    "Java 13 - Incompatibilidade entre tipos.md",
+    "Java 1 - Introdução.md",
+    "Java 2 - Compiladores, JVM, IDE.md",
+    "Java 3 - Criando o Olá mundo.md",
+    "Java 5 - Swing.md",
+    "Java 5.1.1 - Maven.md",
     "Java 6 - JavaFX.md",
     "Java 6.1 - Como executar o .jar criado fora do NetBeans.md",
     "Java 7 - Comentários.md",
-    "Java 5.1.1 - Maven.md",
-    "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
-    "Java 5 - Swing.md",
-    "Java 4 - CamelCase.md",
-    "Java 3 - Criando o Olá mundo.md",
-    "Java 2 - Compiladores, JVM, IDE.md",
-    "Java 1 - Introdução.md",
+    "Java 8 - Tipos primitivos (Algoritmo).md",
+    "Java 9 - Declarando variáveis.md",
+    "Java 10 - Tipos primitivos em Java.md",
+    "Java 11 - Saída de dados em Java.md",
+    "Java 12 - Entrada de dados.md",
     "media/img11_javafx2.png",
     "media/img10_javafx1.png",
     "media/img09_javafx1.png",
@@ -187,13 +197,10 @@
     "media/img08_pacote-incorreto.png",
     "Pasted image 20250725223108.png",
     "media/img07 jframe3.png",
-    "media/img06 jframe2.png",
-    "media/img05 jframe.png",
     "Teste.md",
     "Java 3 - Criando o olá mundo",
     "Sem título.canvas",
     "2025-07-23.md",
-    "media/img04 jdk-jre.png",
     "media",
     "Bem-vindo.md",
     "crie um link.md"
