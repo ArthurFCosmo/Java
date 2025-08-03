@@ -1,4 +1,4 @@
-Tag: #Pacote #Ferramentas #Criando_e_configurando 
+Tag: #Ferramentas #Criando_e_configurando 
 
 ---
 ## 📝Criando o projeto

@@ -1,4 +1,4 @@
-Tags: #Sintaxe 
+Tags: #Sintaxe #Teoria 
 
 ---
 ## 🔨 Declarando variáveis em Java
@@ -82,6 +82,22 @@ O tipo `char` armazena <mark style="background: #727272;">apenas um caractere</m
 boolean aprovado = false; // Primeira forma
 boolean aprovado = (boolean) false; // Typecast
 Boolean aprovado = new Boolean(false); // Wrapper class
+```
+
+---
+
+## Várias variáveis
+
+Podemos declarar várias variáveis do mesmo tipo de uma vez só.
+
+Assim como no Portugol, se as variáveis forem do mesmo tipo, podemos declará-las em linha:
+
+```java
+int n1, n2, r;
+
+n1 = 5;
+n2 = 3;
+r = n1 + n2
 ```
 
 ---

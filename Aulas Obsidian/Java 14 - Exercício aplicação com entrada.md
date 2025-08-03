@@ -1,4 +1,4 @@
-Tags: #Criando_e_configurando #Métodos #Ferramentas #Sintaxe 
+Tags: #Criando_e_configurando #Métodos #Sintaxe 
 
 ---
 ## 🔨 Adicionando as funcionalidades
@@ -70,4 +70,4 @@ Veja que utilizamos classes e métodos como `.parseInt()` e `.toString()` para c
 
 ---
 
-[[Java 15 - Criando uma aplicação com imagens]]
+[[Java 15 - Exercício aplicação com imagens]]

@@ -1,4 +1,4 @@
-Tags: #Sintaxe
+Tags: #Sintaxe #Teoria #Métodos 
 
 ---
 ## 📦 Todos os tipos primitivos
@@ -24,4 +24,25 @@ Se você reparar bem, a maior diferença entre eles é a <mark style="background
 Economia de memória é muito importante no desenvolvimento Java. Leve em conta sempre o método mais otimizado para desenvolver boas aplicações.
 
 ---
+## Comparando declarações de variáveis
+
+Os tipos de texto ficam diferentes conforme a maneira que você declara.
+
+```java
+String nome1 = "Gustavo";
+String nome2 = new String("Gustavo);
+```
+
+Essas duas strings serão diferentes se você compará-las usando um operador de igualdade, mas elas tem o conteúdo igual.
+
+Para comparar o conteúdo das strings, existe um método que pode ser utilizado.
+
+```java
+nome1.equals(nome2)
+```
+
+Esse método `.equals()` serve para qualquer uma das Wrapperclasses, e retorna True ou False baseado nos conteúdos das variáveis, e não sobre suas estruturas.
+
+---
+
 [[Java 11 - Saída de dados em Java]]

@@ -1,4 +1,4 @@
-Assunto: #Criando_e_configurando 
+Assunto: #Criando_e_configurando #Sintaxe  
 
 ---
 ## Sintaxe do código

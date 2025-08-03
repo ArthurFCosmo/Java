@@ -1,4 +1,5 @@
-Tags: #Sintaxe #Métodos #Estratégias
+Tags: #Corrigindo_erro #Métodos #Sintaxe 
+
 
 ___
 ## ⚠ String e Int

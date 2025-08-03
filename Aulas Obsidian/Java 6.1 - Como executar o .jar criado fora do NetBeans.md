@@ -1,4 +1,4 @@
-Tags: #Criando_e_configurando #Corrigindo_erro 
+Tags: #Corrigindo_erro 
 
 ---
 ## ⚠ Qual o problema?

@@ -41,7 +41,7 @@ Deixei nosso JFrame assim:
 - 3 labels (ano de nascimento; idade; 0)
 - 1 button (calcular)
 - 1 spinner
-- 1 imagem
+- 1 imagem (label com ícone)
 
 Coloque nome nos elementos.
 
@@ -102,3 +102,4 @@ Na linha 4, convertemos idade de <mark style="background: #727272;">int</mark> p
 
 ---
 
+[[Java 16 - Operadores aritméticos]]

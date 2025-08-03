@@ -1,4 +1,4 @@
-Tags: #Sintaxe #Métodos #Pacote 
+Tags: #Sintaxe #Métodos 
 
 ---
 ## ⌨ Como solicitar dados pelo teclado?

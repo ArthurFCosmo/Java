@@ -1,4 +1,4 @@
-Tags: #Ferramentas #Xml
+Tags: #Ferramentas
 
 ---
 ## 📦 O que é Maven?
