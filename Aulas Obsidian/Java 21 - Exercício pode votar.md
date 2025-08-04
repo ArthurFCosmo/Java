@@ -41,5 +41,9 @@ Na linha 5 usamos o operador ternário para definir uma string `permissao` basea
 
 Nas linhas 6 e 7, mostramos o resultado.
 
+---
+
+[[Java 22 - Estruturas condicionais]]
+
 
 

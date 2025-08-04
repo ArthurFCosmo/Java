@@ -1,3 +1,7 @@
+Tags: #Hub
+
+---
+
 Estou aprendendo Java, então buscarei documentar todo o meu conhecimento dessa linguagem de programação aqui nesse cofre Obsidian.
 
 ---

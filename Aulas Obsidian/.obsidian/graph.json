@@ -32,7 +32,7 @@
       "query": "tag:#Criando_e_configurando  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15597823
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.13168724279835511,
+  "scale": 0.09392927902847074,
   "close": false
 }

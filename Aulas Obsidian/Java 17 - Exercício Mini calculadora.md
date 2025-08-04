@@ -41,6 +41,8 @@ public class calculadora extends javax.swing.JFrame {
 
 Vamos adicionar a seguinte linha `jPanel1.setVisible(false);`, que serve para ocultar o painel.
 
+Para exibi-lo depois, basta adicionar a linha `jPanel1.setVisible(true);` ao bloco de código de ação do botão.
+
 ### 2. Funcionalidades
 
 Agora vamos para as funcionalidades dentro do método de apertar o botão.
