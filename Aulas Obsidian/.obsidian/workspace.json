@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 22 - Estruturas condicionais.md",
+                "file": "Java 23 - Estruturas de repetição (Laços).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 22 - Estruturas condicionais"
+              "title": "Java 23 - Estruturas de repetição (Laços)"
             }
           }
         ]
@@ -169,10 +169,11 @@
   },
   "active": "5cbe6ac1e0e3453c",
   "lastOpenFiles": [
+    "Java 22 - Estruturas condicionais.md",
+    "Java 23 - Estruturas de repetição (Laços).md",
     "Java 22.1 - Exercício Bhaskara IF.md",
     "Java 12 - Entrada de dados.md",
     "Java 14 - Exercício aplicação com entrada.md",
-    "Java 22 - Estruturas condicionais.md",
     "Java 21 - Exercício pode votar.md",
     "Java 17 - Exercício Mini calculadora.md",
     "media/img17_swing6bhaskara.png",
