@@ -18,6 +18,32 @@ while (X) {
 }
 ```
 
+Exemplo de cálculo de fatorial usando o laço while:
+
+```java
+
+// Coletar o valor
+
+Scanner teclado = new Scanner(System.in);
+
+System.out.print("Insira o valor: ");
+int valor = teclado.nextInt();
+System.out.println(valor);
+
+// Calcular o fatorial
+
+int f = 1;
+
+while (valor >= 1){
+	f *= valor;
+	valor--; 
+}
+
+// Mostrar o resultado na tela
+
+System.out.println("Valor: " + soma);
+```
+
 Dentro do laço, podemos usar outras estruturas.
 
 ### Break
@@ -69,5 +95,48 @@ do {
 	X++;
 	System.out.println(X)
 } while (X < 10)
+```
+
+É possível usar os comandos `continue` e `break` nesse tipo de laço normalmente.
+
+---
+
+## 3. Laço for (para)
+
+O laço `for` é um pouco diferente, ele já vem com o incremento (contador), e geralmente é utilizado quando já se sabe previamente o número de repetições que o bloco vai receber. A estrutura é a seguinte:
+
+```java
+for (int X=0; X <= 3; X++){
+	Y
+}
+```
+
+Nessa linha, temos o comando `for`, o primeiro parâmetro passado dentro dos parênteses é o <mark style="background: #727272;">contador</mark>, que declaramos livremente da mesma forma que declararíamos fora do laço. Após isso, temos o segundo parâmetro, que é a <mark style="background: #727272;">condição de parada</mark> do laço. Por último temos o incremento (passo).
+
+Exemplo de cálculo de fatorial usando o laço for:
+
+```java
+
+// Coletar o valor
+
+Scanner teclado = new Scanner(System.in);
+
+System.out.print("Insira o valor: ");
+int valor = teclado.nextInt();
+System.out.println(valor);
+
+// Calcular o fatorial
+
+int soma = 1;
+
+for (int C = valor; C > 1; C--) {
+	
+	soma *= C ;
+	System.out.println(soma);
+}
+
+// Mostrar o resultado na tela
+
+System.out.println("Valor: " + soma);
 ```
 
