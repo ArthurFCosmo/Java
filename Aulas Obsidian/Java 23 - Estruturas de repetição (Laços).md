@@ -94,10 +94,35 @@ int X = 0;
 do {
 	X++;
 	System.out.println(X)
-} while (X < 10)
+} while (X < 10);
 ```
 
 É possível usar os comandos `continue` e `break` nesse tipo de laço normalmente.
+
+Código de fatorial com o laço do:
+
+```java
+// ler o valor
+               
+System.out.print("Insira o valor: ");
+Scanner teclado = new Scanner(System.in);
+int valor = teclado.nextInt();
+
+// calcular o fatorial
+
+int soma = 1;
+
+do {
+	soma *= valor;
+	--valor;
+} while (valor >= 2);
+
+// esrevendo o valor na sela
+
+System.out.println("Valor do fatorial: " + soma);
+```
+
+Veja que a condição de parada é o valor ser maior ou igual a 2, por que como o teste lógico vai ser após a mudança do incremento, devemos acabar o laço antes, visto que ele vai fazer uma vez a mais por causa desse propriedade.
 
 ---
 
