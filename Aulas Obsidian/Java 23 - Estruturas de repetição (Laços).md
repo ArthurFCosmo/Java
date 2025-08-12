@@ -124,6 +124,10 @@ System.out.println("Valor do fatorial: " + soma);
 
 Veja que a condição de parada é o valor ser maior ou igual a 2, por que como o teste lógico vai ser após a mudança do incremento, devemos acabar o laço antes, visto que ele vai fazer uma vez a mais por causa desse propriedade.
 
+Veja um exercício:
+
+[[Java 23.1 - Exercício de laço do com JOptionPane]]
+
 ---
 
 ## 3. Laço for (para)
@@ -165,3 +169,24 @@ for (int C = valor; C > 1; C--) {
 System.out.println("Valor: " + soma);
 ```
 
+Veja um exercício:
+
+[[Java 23.2 Exercício de laço com listas swing]]
+
+## Laço for each
+
+Esse laço funciona muito bem para manipulação de vetores [[Java 24 - Vetores]].
+
+Ele funciona da seguinte maneira:
+
+```java
+int n[] = {1, 2, 3, 4};
+
+for (int valor : n) {}
+```
+
+Temos o `for ()`, e o primeiro parâmetro vai ser uma variável que receberá o valor dentro de cada passagem. Após isso, usaremos `:` e o `vetor` logo em seguida.
+
+--- 
+
+[[Java 24 - Vetores]]
