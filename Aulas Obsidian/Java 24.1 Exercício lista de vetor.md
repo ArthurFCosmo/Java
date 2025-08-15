@@ -130,6 +130,10 @@ private void botaoODActionPerformed(java.awt.event.ActionEvent evt) {
 
 Com apenas um comando, ordenamos a lista de maneire crescente, `Arrays.sort(vetor)`. Nas outras linhas, limpamos a lista e mostramos ela atualizada.
 
+---
+
+[[Java 25 - Métodos (Funções)]]
+
 
 
 

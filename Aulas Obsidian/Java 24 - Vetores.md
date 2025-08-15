@@ -88,6 +88,10 @@ for (int valor : n) {
 
 Com o uso desse tipo de laço, recebemos uma variável com o valor dentro de cada índice por vez, dispensando a declaração `n[c]`.
 
+---
+
+[[Java 24.1 Exercício lista de vetor]]
+
 
 
 

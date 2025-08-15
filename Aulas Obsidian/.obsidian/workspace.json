@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 24.1 Exercício lista de vetor.md",
+                "file": "Java 25 - Métodos (Funções).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 24.1 Exercício lista de vetor"
+              "title": "Java 25 - Métodos (Funções)"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "5cbe6ac1e0e3453c",
   "lastOpenFiles": [
+    "Java 12 - Entrada de dados.md",
+    "Java 25 - Métodos (Funções).md",
     "Java 24 - Vetores.md",
     "Java 24.1 Exercício lista de vetor.md",
     "Java 23 - Estruturas de repetição (Laços).md",
@@ -187,7 +189,6 @@
     "Java 17 - Exercício Mini calculadora.md",
     "media/img19_joptionpane2.png",
     "media/img18_joptionpane.png",
-    "Java 12 - Entrada de dados.md",
     "Java 18 - Operador ternário.md",
     "Java 11 - Saída de dados em Java.md",
     "Java 14 - Exercício aplicação com entrada.md",
