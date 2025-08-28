@@ -152,3 +152,6 @@ public class Metodos {
 }
 ```
 
+---
+
+[[Java 26 - Exceptions]]

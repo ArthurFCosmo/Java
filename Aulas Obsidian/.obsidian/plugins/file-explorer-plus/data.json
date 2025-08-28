@@ -24,6 +24,13 @@
         "type": "DIRECTORIES",
         "pattern": "media",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Evolução de aprendizado Java.canvas",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

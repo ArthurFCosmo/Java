@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "89e2ebd346b5d80a",
+        "id": "223508f7d8ee67f8",
         "type": "tabs",
         "children": [
           {
-            "id": "5cbe6ac1e0e3453c",
+            "id": "14ee67205107b760",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java 25 - Métodos (Funções).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Java 25 - Métodos (Funções)"
+              "title": "Nova aba"
             }
           }
         ]
@@ -159,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -167,42 +164,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5cbe6ac1e0e3453c",
+  "active": "14ee67205107b760",
   "lastOpenFiles": [
-    "Java 12 - Entrada de dados.md",
+    "Evolução de aprendizado Java.canvas",
+    "Java 26.1 - Throwable.md",
+    "Java 26 - Exceptions.md",
     "Java 25 - Métodos (Funções).md",
     "Java 24 - Vetores.md",
-    "Java 24.1 Exercício lista de vetor.md",
-    "Java 23 - Estruturas de repetição (Laços).md",
     "Java 23.2 Exercício de laço com listas swing.md",
-    "media/img21_lista.png",
     "Java 23.1 - Exercício de laço do com JOptionPane.md",
-    "Java 20 - Operadores lógicos.md",
+    "Java 23 - Estruturas de repetição (Laços).md",
+    "Java 22.1 - Exercício Bhaskara IF.md",
     "Java 22 - Estruturas condicionais.md",
+    "Java 21 - Exercício pode votar.md",
+    "Java 20 - Operadores lógicos.md",
     "Java 19 - Operadores relacionais.md",
+    "Java 18 - Operador ternário.md",
+    "Java 17 - Exercício Mini calculadora.md",
     "Java 16 - Operadores aritméticos.md",
     "Java 15 - Exercício aplicação com imagens.md",
-    "Java 10 - Tipos primitivos em Java.md",
-    "media/img20_sliders.png",
-    "Java 21 - Exercício pode votar.md",
-    "Java 22.1 - Exercício Bhaskara IF.md",
-    "Java 17 - Exercício Mini calculadora.md",
-    "media/img19_joptionpane2.png",
-    "media/img18_joptionpane.png",
-    "Java 18 - Operador ternário.md",
-    "Java 11 - Saída de dados em Java.md",
     "Java 14 - Exercício aplicação com entrada.md",
-    "media/img17_swing6bhaskara.png",
-    "Java 1 - Introdução.md",
-    "Java 6.1 - Como executar o .jar criado fora do NetBeans.md",
+    "Java 13 - Incompatibilidade entre tipos.md",
+    "Java 11 - Saída de dados em Java.md",
+    "Java 10 - Tipos primitivos em Java.md",
+    "Java 9 - Declarando variáveis.md",
+    "Java 8 - Tipos primitivos (Algoritmo).md",
+    "Java 7 - Comentários.md",
     "Java 6 - JavaFX.md",
     "Java 5.1.1 - Maven.md",
-    "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
-    "Java 5 - Swing.md",
-    "Java 4 - CamelCase.md",
+    "media/img21_lista.png",
+    "media/img20_sliders.png",
+    "media/img19_joptionpane2.png",
+    "media/img18_joptionpane.png",
+    "media/img17_swing6bhaskara.png",
     "media/img16_swing5voto.png",
     "Sem título 1.canvas",
-    "Sem título.canvas",
     "media/img15_swing4calc.png",
     "media/img14_swing3.png",
     "media/img13_swing2.png",
