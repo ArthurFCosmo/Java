@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "223508f7d8ee67f8",
+        "id": "9e51be8e009ee7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "14ee67205107b760",
+            "id": "447346ec481358d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,7 +164,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "14ee67205107b760",
+  "active": "447346ec481358d9",
   "lastOpenFiles": [
     "Evolução de aprendizado Java.canvas",
     "Java 26.1 - Throwable.md",
