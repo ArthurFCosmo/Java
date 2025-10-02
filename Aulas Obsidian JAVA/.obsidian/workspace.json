@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "042150b0a8ca438f",
+        "id": "3586bb5aa6abea5a",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e3e29763ddf340",
+            "id": "0c22032b29a2e73e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "canvas",
+              "state": {
+                "file": "Evolução de aprendizado Java.canvas",
+                "viewState": {
+                  "x": -80,
+                  "y": -100,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Evolução de aprendizado Java"
             }
           }
         ]
@@ -164,8 +171,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9e3e29763ddf340",
+  "active": "0c22032b29a2e73e",
   "lastOpenFiles": [
+    "Java 1 - Introdução.md",
+    "Java 8 - Tipos primitivos (Algoritmo).md",
+    "Java 7 - Comentários.md",
+    "Java 6.1 - Como executar o .jar criado fora do NetBeans.md",
+    "Java 6 - JavaFX.md",
+    "Java 5 - Swing.md",
+    "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
+    "Java 5.1.1 - Maven.md",
+    "Java 4 - CamelCase.md",
+    "Java 3 - Criando o Olá mundo.md",
+    "Java 2 - Compiladores, JVM, IDE.md",
     "Evolução de aprendizado Java.canvas",
     "Java 26.1 - Throwable.md",
     "Java 26 - Exceptions.md",
@@ -182,16 +200,6 @@
     "Java 18 - Operador ternário.md",
     "Java 17 - Exercício Mini calculadora.md",
     "Java 16 - Operadores aritméticos.md",
-    "Java 15 - Exercício aplicação com imagens.md",
-    "Java 14 - Exercício aplicação com entrada.md",
-    "Java 13 - Incompatibilidade entre tipos.md",
-    "Java 11 - Saída de dados em Java.md",
-    "Java 10 - Tipos primitivos em Java.md",
-    "Java 9 - Declarando variáveis.md",
-    "Java 8 - Tipos primitivos (Algoritmo).md",
-    "Java 7 - Comentários.md",
-    "Java 6 - JavaFX.md",
-    "Java 5.1.1 - Maven.md",
     "media/img21_lista.png",
     "media/img20_sliders.png",
     "media/img19_joptionpane2.png",
