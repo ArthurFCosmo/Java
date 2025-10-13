@@ -14,6 +14,20 @@ Os operadores relacionais servem para criar expressões. São eles:
 | ==       | Igual a          | 5 == 2  | False     |
 | !=       | Diferente de     | 5 != 2  | True      |
 
+## Equals()
+
+Para fazermos comparações em Java, é interessante que usamos o operador `equals()`, ele funciona da seguinte forma:
+
+`"X".equals(Y)`
+
+Compara se X é igual a Y, e retorna uma resposta em boolean, true ou false.
+
+Para comparar se é diferente, usamos:
+
+`!"X".equals(Y)`
+
+
+
 ---
 
 [[Java 20 - Operadores lógicos]]

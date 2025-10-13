@@ -11,17 +11,14 @@
             "id": "0c22032b29a2e73e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Evolução de aprendizado Java.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -100,
-                  "zoom": 0
-                }
+                "file": "Java 19 - Operadores relacionais.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Evolução de aprendizado Java"
+              "icon": "lucide-file",
+              "title": "Java 19 - Operadores relacionais"
             }
           }
         ]
@@ -173,6 +170,17 @@
   },
   "active": "0c22032b29a2e73e",
   "lastOpenFiles": [
+    "Java 20 - Operadores lógicos.md",
+    "Java 23 - Estruturas de repetição (Laços).md",
+    "Java 23.1 - Exercício de laço do com JOptionPane.md",
+    "Java 23.2 Exercício de laço com listas swing.md",
+    "Java 22 - Estruturas condicionais.md",
+    "Java 19 - Operadores relacionais.md",
+    "Java 18 - Operador ternário.md",
+    "Java 16 - Operadores aritméticos.md",
+    "Java 12 - Entrada de dados.md",
+    "Java 21 - Exercício pode votar.md",
+    "Evolução de aprendizado Java.canvas",
     "Java 1 - Introdução.md",
     "Java 8 - Tipos primitivos (Algoritmo).md",
     "Java 7 - Comentários.md",
@@ -184,22 +192,11 @@
     "Java 4 - CamelCase.md",
     "Java 3 - Criando o Olá mundo.md",
     "Java 2 - Compiladores, JVM, IDE.md",
-    "Evolução de aprendizado Java.canvas",
     "Java 26.1 - Throwable.md",
     "Java 26 - Exceptions.md",
     "Java 25 - Métodos (Funções).md",
     "Java 24 - Vetores.md",
-    "Java 23.2 Exercício de laço com listas swing.md",
-    "Java 23.1 - Exercício de laço do com JOptionPane.md",
-    "Java 23 - Estruturas de repetição (Laços).md",
     "Java 22.1 - Exercício Bhaskara IF.md",
-    "Java 22 - Estruturas condicionais.md",
-    "Java 21 - Exercício pode votar.md",
-    "Java 20 - Operadores lógicos.md",
-    "Java 19 - Operadores relacionais.md",
-    "Java 18 - Operador ternário.md",
-    "Java 17 - Exercício Mini calculadora.md",
-    "Java 16 - Operadores aritméticos.md",
     "media/img21_lista.png",
     "media/img20_sliders.png",
     "media/img19_joptionpane2.png",
