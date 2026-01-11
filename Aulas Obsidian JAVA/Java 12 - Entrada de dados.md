@@ -14,7 +14,7 @@ Para usar o scanner, é preciso criar um objeto para receber o valor que será i
 Para ler dados, primeiro é necessário criar um objeto que receberá esses dados. Para isso, podemos usar o seguinte comando:
 
 ```java
-Scanner teclado = new Scanner(System.in)
+Scanner teclado = new Scanner(System.in);
 String palavra = teclado.nextLine();
 ```
 

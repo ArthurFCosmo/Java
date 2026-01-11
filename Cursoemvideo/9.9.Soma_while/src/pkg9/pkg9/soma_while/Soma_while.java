@@ -20,7 +20,7 @@ public class Soma_while {
         int valor;
         int soma = 0;
         do {
-            valor = Integer.parseInt(JOptionPane.showInputDialog(null, "Informe números. (Insira 0 para soma-los)"));
+            valor = Integer.parseInt(JOptionPane.showInputDialog(null, "Informe números. Um de cada vez, e clicando ok para informar outro. (Insira 0 para soma-los)"));
             soma += valor;
         } while (valor != 0);
         

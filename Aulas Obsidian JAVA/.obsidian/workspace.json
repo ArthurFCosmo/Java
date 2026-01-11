@@ -4,21 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "3586bb5aa6abea5a",
+        "id": "3ad9667b8ac14816",
         "type": "tabs",
         "children": [
           {
-            "id": "0c22032b29a2e73e",
+            "id": "ffe2737f74507f8c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Evolução de aprendizado Java.canvas",
+                "viewState": {
+                  "x": 18154.2717439045,
+                  "y": -23.44916060423617,
+                  "zoom": -0.9999999999999996
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Evolução de aprendizado Java"
+            }
+          },
+          {
+            "id": "ac2c774a1eb6454e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 19 - Operadores relacionais.md",
+                "file": "Java 27 - Classes Random e SecureRandom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 19 - Operadores relacionais"
+              "title": "Java 27 - Classes Random e SecureRandom"
+            }
+          },
+          {
+            "id": "94e91edd1745b62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 27 - Classes Random e SecureRandom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java 27 - Classes Random e SecureRandom"
             }
           }
         ]
@@ -168,46 +199,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c22032b29a2e73e",
+  "active": "ffe2737f74507f8c",
   "lastOpenFiles": [
-    "Java 18 - Operador ternário.md",
-    "Java 17 - Exercício Mini calculadora.md",
+    "Java 27 - Classes Random e SecureRandom.md",
+    "Java 28 - StringBuilder.md",
+    "Sem título 2.base",
+    "Sem título 1.canvas",
+    "Sem título 1.base",
+    "Sem título.canvas",
+    "Sem título.base",
+    "Evolução de aprendizado Java.canvas",
+    "media/dark-triangles-abstract-pattern.jpg",
     "Java 16 - Operadores aritméticos.md",
-    "Java 20 - Operadores lógicos.md",
+    "Java 17 - Exercício Mini calculadora.md",
+    "Java 24.1 Exercício lista de vetor.md",
+    "Java 25 - Métodos (Funções).md",
+    "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
+    "Java 5.1.1 - Maven.md",
+    "Java 5 - Swing.md",
+    "Java 15 - Exercício aplicação com imagens.md",
+    "Java 13 - Incompatibilidade entre tipos.md",
     "Java 19 - Operadores relacionais.md",
+    "Java 10 - Tipos primitivos em Java.md",
+    "Java 12 - Entrada de dados.md",
     "Java 23 - Estruturas de repetição (Laços).md",
     "Java 23.1 - Exercício de laço do com JOptionPane.md",
+    "Java 20 - Operadores lógicos.md",
+    "Java 18 - Operador ternário.md",
     "Java 23.2 Exercício de laço com listas swing.md",
     "Java 22 - Estruturas condicionais.md",
-    "Java 12 - Entrada de dados.md",
     "Java 21 - Exercício pode votar.md",
-    "Evolução de aprendizado Java.canvas",
     "Java 1 - Introdução.md",
     "Java 8 - Tipos primitivos (Algoritmo).md",
     "Java 7 - Comentários.md",
     "Java 6.1 - Como executar o .jar criado fora do NetBeans.md",
-    "Java 6 - JavaFX.md",
-    "Java 5 - Swing.md",
-    "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
-    "Java 5.1.1 - Maven.md",
-    "Java 4 - CamelCase.md",
-    "Java 3 - Criando o Olá mundo.md",
-    "Java 2 - Compiladores, JVM, IDE.md",
-    "Java 26.1 - Throwable.md",
-    "Java 26 - Exceptions.md",
-    "Java 25 - Métodos (Funções).md",
-    "Java 24 - Vetores.md",
     "media/img21_lista.png",
     "media/img20_sliders.png",
     "media/img19_joptionpane2.png",
     "media/img18_joptionpane.png",
     "media/img17_swing6bhaskara.png",
     "media/img16_swing5voto.png",
-    "Sem título 1.canvas",
     "media/img15_swing4calc.png",
     "media/img14_swing3.png",
     "media/img13_swing2.png",
-    "media/img12_swing1.png",
     "Java 3 - Criando o olá mundo",
     "media"
   ]

@@ -5,8 +5,6 @@
 		{"id":"1faf478ecd3443ba","type":"file","file":"Java 4 - CamelCase.md","x":1000,"y":-300,"width":400,"height":400},
 		{"id":"f9e6ac88e1a62d95","type":"file","file":"Java 1 - Introdução.md","x":-920,"y":-300,"width":400,"height":400},
 		{"id":"585217d941b465d9","type":"file","file":"Java 5 - Swing.md","x":1680,"y":-300,"width":400,"height":400},
-		{"id":"e8d52c169c61ef27","type":"file","file":"Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md","x":1680,"y":-880,"width":400,"height":400},
-		{"id":"ed9dc312ff666efb","type":"file","file":"Java 5.1.1 - Maven.md","x":1680,"y":-1480,"width":400,"height":400},
 		{"id":"ed7cfa6649dac12e","type":"file","file":"Java 6 - JavaFX.md","x":2360,"y":-300,"width":400,"height":400},
 		{"id":"3cde9fd312b9ae48","type":"file","file":"Java 6.1 - Como executar o .jar criado fora do NetBeans.md","x":2360,"y":320,"width":400,"height":400},
 		{
@@ -36,15 +34,29 @@
 		{"id":"b121a29f3b6037b3","type":"file","file":"Java 21 - Exercício pode votar.md","x":12960,"y":-300,"width":400,"height":400},
 		{"id":"eb8f42ea0a3cadc0","type":"file","file":"Java 20 - Operadores lógicos.md","x":12280,"y":-300,"width":400,"height":400},
 		{"id":"5a681dbd9a17c91d","type":"file","file":"Java 22 - Estruturas condicionais.md","x":13660,"y":-300,"width":400,"height":400},
-		{"id":"97cbd56270ae671a","type":"file","file":"Java 22.1 - Exercício Bhaskara IF.md","x":13660,"y":-960,"width":400,"height":400},
 		{"id":"c1f0c11acba3999e","type":"file","file":"Java 23 - Estruturas de repetição (Laços).md","x":14400,"y":-300,"width":400,"height":400},
-		{"id":"3d550a733aa8dd7a","type":"file","file":"Java 23.1 - Exercício de laço do com JOptionPane.md","x":14520,"y":-1080,"width":400,"height":400},
-		{"id":"a0d330ab40c89409","type":"file","file":"Java 23.2 Exercício de laço com listas swing.md","x":15120,"y":-1080,"width":400,"height":400},
 		{"id":"971fcba672e482d2","type":"file","file":"Java 24 - Vetores.md","x":15160,"y":-300,"width":400,"height":400},
-		{"id":"39a39a8fbb8eac09","type":"file","file":"Java 24.1 Exercício lista de vetor.md","x":15600,"y":440,"width":400,"height":400},
 		{"id":"f7cc99287b41dddf","type":"file","file":"Java 25 - Métodos (Funções).md","x":15920,"y":-300,"width":400,"height":400},
 		{"id":"d8487dd4a5188dcf","type":"file","file":"Java 26 - Exceptions.md","x":16680,"y":-300,"width":400,"height":400},
-		{"id":"4ebf483f68e97aef","type":"file","file":"Java 26.1 - Throwable.md","x":16840,"y":-960,"width":400,"height":400}
+		{"id":"5823c2b432b529ae","type":"file","file":"Java 27 - Classes Random e SecureRandom.md","x":17500,"y":-300,"width":400,"height":400},
+		{"id":"32cfb19d682fe4bc","type":"file","file":"Java 28 - StringBuilder.md","x":18340,"y":-300,"width":400,"height":400},
+		{"id":"3d550a733aa8dd7a","type":"file","file":"Java 23.1 - Exercício de laço do com JOptionPane.md","x":14400,"y":-1080,"width":400,"height":400},
+		{"id":"a0d330ab40c89409","type":"file","file":"Java 23.2 Exercício de laço com listas swing.md","x":14960,"y":-1080,"width":400,"height":400},
+		{"id":"39a39a8fbb8eac09","type":"file","file":"Java 24.1 Exercício lista de vetor.md","x":15160,"y":360,"width":400,"height":400},
+		{"id":"97cbd56270ae671a","type":"file","file":"Java 22.1 - Exercício Bhaskara IF.md","x":13660,"y":-1080,"width":400,"height":400},
+		{"id":"4ebf483f68e97aef","type":"file","file":"Java 26.1 - Throwable.md","x":16680,"y":-1080,"width":400,"height":400},
+		{
+			"id":"2b697a4867fb15d0",
+			"type":"text",
+			"text":"A partir daqui, já estava ciente de conceitos de POO, como classes métodos e ETC.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":17470,
+			"y":-980,
+			"width":460,
+			"height":300
+		},
+		{"id":"e8d52c169c61ef27","type":"file","file":"Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md","x":1680,"y":-1080,"width":400,"height":400},
+		{"id":"ed9dc312ff666efb","type":"file","file":"Java 5.1.1 - Maven.md","x":1680,"y":-1840,"width":400,"height":400}
 	],
 	"edges":[
 		{
@@ -315,7 +327,7 @@
 			"fromNode":"971fcba672e482d2",
 			"fromSide":"bottom",
 			"toNode":"39a39a8fbb8eac09",
-			"toSide":"left"
+			"toSide":"top"
 		},
 		{
 			"id":"dd14e5ece7510bfe",
@@ -342,6 +354,33 @@
 			"fromNode":"d8487dd4a5188dcf",
 			"fromSide":"top",
 			"toNode":"4ebf483f68e97aef",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b1b18943b7551845",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d8487dd4a5188dcf",
+			"fromSide":"right",
+			"toNode":"5823c2b432b529ae",
+			"toSide":"left"
+		},
+		{
+			"id":"72635384c72ccdb6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5823c2b432b529ae",
+			"fromSide":"right",
+			"toNode":"32cfb19d682fe4bc",
+			"toSide":"left"
+		},
+		{
+			"id":"3b4f682ce9d51f83",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5823c2b432b529ae",
+			"fromSide":"top",
+			"toNode":"2b697a4867fb15d0",
 			"toSide":"bottom"
 		}
 	],
