@@ -1,4 +1,4 @@
-[](Java%2027%20-%20Classes%20Random%20e%20SecureRandom.md)[](Java%2027%20-%20Classes%20Random%20e%20SecureRandom.md)[](Java%2027%20-%20Classes%20Random%20e%20SecureRandom.md)[](Java%2027%20-%20Classes%20Random%20e%20SecureRandom.md)[](Java%2027%20-%20Classes%20Random%20e%20SecureRandom.md)[](Java%2027%20-%20Classes%20Random%20e%20SecureRandom.md)Tags: #Corrigindo_erro #Teoria 
+Tags: #Corrigindo_erro #Teoria 
 
 ---
 

@@ -1,4 +1,4 @@
-Tags: #Classes #Métodos 
+[](Java%2028%20-%20Strings.md)Tags: #Classes #Métodos 
 
 ---
 
@@ -27,7 +27,7 @@ Na linha 1, nós fazemos os preparativos para poder usar o método da classe Sec
 
 Na linha 2, usamos o método em questão, que recebe um número `int` como parâmetro, então ele retorna um número aleatório entre 0 e o número que você passou como parâmetro.
 
-Usei então um laço, com a classe [[Java 28 - StringBuilder]] + o método `.append()`, gerando vários números e enfileirando eles numa String, formando no fim um número de conta com 8 dígitos, depois adicionei um "-", e mais um dígito gerando pelo `.nextInt()`, formando assim a conta de banco.
+Usei então um laço, com a classe [[Java 28 - Strings]] + o método `.append()`, gerando vários números e enfileirando eles numa String, formando no fim um número de conta com 8 dígitos, depois adicionei um "-", e mais um dígito gerando pelo `.nextInt()`, formando assim a conta de banco.
 
 ```java
 // criando conta aleatoria
