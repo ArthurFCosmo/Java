@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 1 - Introdução.md",
+                "file": "Java 22 - Estruturas condicionais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 1 - Introdução"
+              "title": "Java 22 - Estruturas condicionais"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "switch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Sumário"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,9 +167,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ffe2737f74507f8c",
+  "active": "5e41b370ccfb6dd9",
   "lastOpenFiles": [
+    "Java 21 - Exercício pode votar.md",
+    "Java 20 - Operadores lógicos.md",
+    "Java 19 - Operadores relacionais.md",
+    "Java 18 - Operador ternário.md",
+    "Java 17 - Exercício Mini calculadora.md",
+    "Java 16 - Operadores aritméticos.md",
+    "Java 15 - Exercício aplicação com imagens.md",
+    "Java 14 - Exercício aplicação com entrada.md",
+    "Java 13 - Incompatibilidade entre tipos.md",
+    "Java 12 - Entrada de dados.md",
     "Evolução de aprendizado Java.canvas",
+    "Java 22 - Estruturas condicionais.md",
+    "Java 1 - Introdução.md",
     "Java 26 - Exceptions.md",
     "Java 28 - Strings.md",
     "Java 27 - Classes Random e SecureRandom.md",
@@ -181,26 +192,15 @@
     "Sem título.canvas",
     "Sem título.base",
     "media/dark-triangles-abstract-pattern.jpg",
-    "Java 16 - Operadores aritméticos.md",
-    "Java 17 - Exercício Mini calculadora.md",
     "Java 24.1 Exercício lista de vetor.md",
     "Java 25 - Métodos (Funções).md",
     "Java 5.1 - Configurando Classe principal com o Maven em projetos JFrame.md",
     "Java 5.1.1 - Maven.md",
     "Java 5 - Swing.md",
-    "Java 15 - Exercício aplicação com imagens.md",
-    "Java 13 - Incompatibilidade entre tipos.md",
-    "Java 19 - Operadores relacionais.md",
     "Java 10 - Tipos primitivos em Java.md",
-    "Java 12 - Entrada de dados.md",
     "Java 23 - Estruturas de repetição (Laços).md",
     "Java 23.1 - Exercício de laço do com JOptionPane.md",
-    "Java 20 - Operadores lógicos.md",
-    "Java 18 - Operador ternário.md",
     "Java 23.2 Exercício de laço com listas swing.md",
-    "Java 22 - Estruturas condicionais.md",
-    "Java 21 - Exercício pode votar.md",
-    "Java 1 - Introdução.md",
     "Java 8 - Tipos primitivos (Algoritmo).md",
     "media/img21_lista.png",
     "media/img20_sliders.png",
