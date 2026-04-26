@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 24 - Vetores.md",
+                "file": "Java 20 - Operadores lógicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 24 - Vetores"
+              "title": "Java 20 - Operadores lógicos"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "ffe2737f74507f8c",
   "lastOpenFiles": [
+    "Java 19 - Operadores relacionais.md",
+    "Java 24 - Vetores.md",
     "Java 23.2 Exercício de laço com listas swing.md",
     "Java 23.1 - Exercício de laço do com JOptionPane.md",
     "Java 23 - Estruturas de repetição (Laços).md",
@@ -177,7 +179,6 @@
     "Java 22 - Estruturas condicionais.md",
     "Java 21 - Exercício pode votar.md",
     "Java 20 - Operadores lógicos.md",
-    "Java 19 - Operadores relacionais.md",
     "Java 18 - Operador ternário.md",
     "Java 14 - Exercício aplicação com entrada.md",
     "Java 6 - JavaFX.md",
@@ -202,7 +203,6 @@
     "Sem título.base",
     "media/dark-triangles-abstract-pattern.jpg",
     "Java 24.1 Exercício lista de vetor.md",
-    "Java 25 - Métodos (Funções).md",
     "media/img21_lista.png",
     "media/img20_sliders.png",
     "media/img19_joptionpane2.png",
